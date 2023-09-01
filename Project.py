@@ -9,9 +9,15 @@ print("Victor")
 a=4
 b=5
 c,d = 5,6
+e = "Olá"
 print(a+b)
-print((2*a)*(3*b) )
-print(a+b+c)
+print((2*a)*(3*b) ) # prestar atenção nos parenteses
+print(a + b , e)
+print(a + b , e, "!", 10/2)
+
+
+
+
 
 
 
