@@ -9,3 +9,5 @@ c,r = 3*c,c
 print(c)
 
 print(type(2.234)) #ponto-flutuante
+
+
