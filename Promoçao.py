@@ -3,7 +3,8 @@ porcentagem = 15 / 100
 porcentagem1 = 5 / 100
 
 up = (salario_ant * porcentagem)
-salario_prom = salario_ant + up
+salario_prom = salario_ant + u
+p
 desconto = up - porcentagem1
 salario_des = salario_prom - desconto
 
